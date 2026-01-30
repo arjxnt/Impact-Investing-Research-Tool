@@ -2,6 +2,11 @@
 
 A comprehensive platform for analyzing social impact, climate risk, and sustainability factors across investment portfolios. Designed to support deal work and portfolio company engagement with a focus on climate change risk and greenhouse gas emissions management.
 
+## Project Documentation
+
+- **[Product Requirements Document (PRD)](docs/PRD.md)** – Goals, user stories, functional requirements, and glossary
+- **[Project Roadmap](docs/ROADMAP.md)** – Development phases, milestones, and future enhancements
+
 ## Features
 
 ### Core Capabilities
