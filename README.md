@@ -6,6 +6,7 @@ A comprehensive platform for analyzing social impact, climate risk, and sustaina
 
 - **[Product Requirements Document (PRD)](docs/PRD.md)** – Goals, user stories, functional requirements, and glossary
 - **[Project Roadmap](docs/ROADMAP.md)** – Development phases, milestones, and future enhancements
+- **[Shareable Links](docs/LINKS.md)** – Copy-paste links for PRD, roadmap, and repo
 
 ## Features
 
